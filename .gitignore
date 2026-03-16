@@ -1,0 +1,7 @@
+
+# Archivos temporales y compilados de Python
+__pycache__/
+*.pyc
+
+# Base de datos local (recomendado para no subir tu data de prueba)
+db.sqlite3
